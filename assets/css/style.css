@@ -3700,7 +3700,6 @@ hr {
     font-size: 30px;
     font-weight: 400;
     color: #071112;
-    text-transform: capitalize;
     margin-bottom: 20px;
     display: block;
     -webkit-transition: .2s;
